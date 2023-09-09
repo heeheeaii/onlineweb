@@ -4,12 +4,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/onlineweb-bean/pom.xml" />
         <option value="$PROJECT_DIR$/onlineweb-common/pom.xml" />
         <option value="$PROJECT_DIR$/onlineweb-security/pom.xml" />
         <option value="$PROJECT_DIR$/onlineweb-sys/pom.xml" />
         <option value="$PROJECT_DIR$/onlineweb-security/onlineweb-security-admin/pom.xml" />
-        <option value="$PROJECT_DIR$/onlineweb-security/onlineweb-security-api/pom.xml" />
         <option value="$PROJECT_DIR$/onlineweb-security/onlineweb-security-common/pom.xml" />
         <option value="$PROJECT_DIR$/onlineweb-service/pom.xml" />
       </list>

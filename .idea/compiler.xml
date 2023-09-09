@@ -7,11 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="onlineweb-security-api" />
         <module name="onlineweb-security-common" />
+        <module name="onlineweb-security-api" />
         <module name="onlineweb-common" />
-        <module name="onlineweb-bean" />
-        <module name="onlineweb-admin" />
         <module name="onlineweb-sys" />
         <module name="onlineweb-service" />
         <module name="onlineweb-security-admin" />
@@ -22,13 +20,13 @@
       <module name="onlineweb-admin" target="17" />
       <module name="onlineweb-api" target="17" />
       <module name="onlineweb-bean" target="17" />
-      <module name="onlineweb-common" target="17" />
-      <module name="onlineweb-security" target="17" />
-      <module name="onlineweb-security-admin" target="17" />
-      <module name="onlineweb-security-api" target="17" />
+      <module name="onlineweb-common" target="1.5" />
+      <module name="onlineweb-security" target="1.5" />
+      <module name="onlineweb-security-admin" target="1.5" />
+      <module name="onlineweb-security-api" target="1.5" />
       <module name="onlineweb-security-common" target="17" />
-      <module name="onlineweb-service" target="17" />
-      <module name="onlineweb-sys" target="17" />
+      <module name="onlineweb-service" target="1.5" />
+      <module name="onlineweb-sys" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

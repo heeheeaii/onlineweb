@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/onlineweb.iml" filepath="$PROJECT_DIR$/onlineweb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/onlineweb-admin/onlineweb-admin.iml" filepath="$PROJECT_DIR$/onlineweb-admin/onlineweb-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/onlineweb-bean/onlineweb-bean.iml" filepath="$PROJECT_DIR$/onlineweb-bean/onlineweb-bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/onlineweb-common/onlineweb-common.iml" filepath="$PROJECT_DIR$/onlineweb-common/onlineweb-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/onlineweb-security/onlineweb-security.iml" filepath="$PROJECT_DIR$/onlineweb-security/onlineweb-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/onlineweb-security/onlineweb-security-admin/onlineweb-security-admin.iml" filepath="$PROJECT_DIR$/onlineweb-security/onlineweb-security-admin/onlineweb-security-admin.iml" />
